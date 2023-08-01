@@ -1,4 +1,3 @@
-```markdown
 # Welcome to My GitHub Profile! 👋
 
 ## Overview
@@ -23,4 +22,3 @@ Collaboration fuels innovation. If you are seeking a collaborator for your proje
 
 ## Contact
 Reach out to me through przemyslaw.kwiecinski91@gmail.com
-```
