@@ -20,7 +20,7 @@ Up until recently, my professional journey has been largely in the aviation indu
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Przemek9110&theme=dark&show_icons=true)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Przemek9110&theme=transparent&show_icons=true"/>
 
 
 ## Let's Collaborate
