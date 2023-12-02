@@ -20,8 +20,8 @@ Up until recently, my professional journey has been largely in the aviation indu
 </div>
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Przemek9110&theme=dark&show_icons=true)
-</div>div
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Przemek9110&theme=dark&show_icons=true)
+</div>
 
 ## Let's Collaborate
 Collaboration fuels innovation. If you are seeking a collaborator for your project, feel free to connect with me. I'm always excited about new opportunities to learn and grow together!
