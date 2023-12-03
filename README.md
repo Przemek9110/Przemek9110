@@ -22,7 +22,7 @@ Up until recently, my professional journey has been largely in the aviation indu
 ## 📈 Stats:
 <div>
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Przemek9110&show_icons=true&card_width=100" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" width="465" height="195" background-color=#f0f0f0 alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" style="max-width: 300%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" width="465" height="300" background-color=#f0f0f0 alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" style="max-width: 300%;">
 </div>
 
 ## 🤝 Let's Collaborate
