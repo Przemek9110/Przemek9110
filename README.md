@@ -19,13 +19,14 @@ Up until recently, my professional journey has been largely in the aviation indu
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="45" height="45"/>&nbsp;
 </div>
 
+## 📈 Stats:
+<div>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Przemek9110&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" width="465" height="195" background-color=#f0f0f0 alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" style="max-width: 300%;">
+</div>
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Przemek9110&theme=transparent&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" width="465" background-color=#f0f0f0 alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemek9110&amp;layout=compact" style="max-width: 300%;">
-
-
-## Let's Collaborate
+## 🤝 Let's Collaborate
 Collaboration fuels innovation. If you are seeking a collaborator for your project, feel free to connect with me. I'm always excited about new opportunities to learn and grow together!
 
-## Contact
+## 📧 Contact
 Reach out to me through przemyslaw.kwiecinski91@gmail.com
