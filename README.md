@@ -6,7 +6,7 @@ Here, you'll find a diverse array of public repositories which I invite you to e
 ## 👩‍💻 Background
 Up until recently, my professional journey has been largely in the aviation industry. However, in September 2021, I decided to venture into the fascinating world of Data Science, a sector that continues to grow at a rapid pace. I'm enthusiastic and ready to face the exciting new challenges this field has to offer!
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
   <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python"  alt="Python" width="45" height="45"/>&nbsp;
