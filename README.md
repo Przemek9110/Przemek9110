@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## Overview
+## 👓 Overview
 Here, you'll find a diverse array of public repositories which I invite you to explore. My projects are concentrated in the field of Data Science, with a specific focus on Machine Learning and AI. I am an avid believer in the power of constructive criticism, and warmly invite you to provide your valuable feedback in the 'give feedback' section.
 
 ## 👩‍💻 Background
